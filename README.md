@@ -1,2 +1,3 @@
-# ML-Learning
-I am learning Machine learning algorithm and this is a repo of my learning.
+# Machine Learning Practice
+This repository contains my learning and practice code from Krish Naik tutorials.
+I am using this repo to track my progress and understanding.
